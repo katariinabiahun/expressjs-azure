@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/a9dc8a04-b291-4f92-9ef2-07f637d457d4/resourceGroups/rg-icelab-katariina-test/providers/Microsoft.Web/sites/expressjs-az-webapp",
+  "appService.deploySubpath": "."
+}
